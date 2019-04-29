@@ -2,7 +2,9 @@
 
 ## Introduction
 The U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics tracks the on-time performance of domestic flights operated by large air carriers. Using this data we would like to predict Flight delays
- 
+
+![flight delays](https://user-images.githubusercontent.com/1559391/56873334-3c3d4e00-69f7-11e9-8ed6-7f585bae5361.png)
+
 ## Project Goals
 Your mission is two-fold. 
 - Demonstrate how to use Spark for ETL and feature engineering on the input data. This will be the airline data and the *optional* Noaa data
