@@ -44,7 +44,7 @@ References:
 - LinearLearner - https://docs.aws.amazon.com/sagemaker/latest/dg/linear-learner.html
 - XGBoost - https://docs.aws.amazon.com/sagemaker/latest/dg/xgboost.html
 - Spark classification & Regression models - https://spark.apache.org/docs/2.2.0/ml-classification-regression.html
-- Spark Sagemaker SDK - https://github.com/aws/sagemaker-spark
+- Sagemaker Spark SDK - https://github.com/aws/sagemaker-spark
 - Sagemaker Bring your own model -https://docs.aws.amazon.com/sagemaker/latest/dg/your-algorithms.html
 - Flight stats: https://www.flightstats.com/v2/global-cancellations-and-delays
 - Pandas and Spark: https://koalas.readthedocs.io/en/latest/
