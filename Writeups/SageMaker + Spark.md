@@ -41,6 +41,7 @@ Extra points
 - Using the NOAA weather
 
 References:
+- Spark Sagemaker examples - https://github.com/awslabs/amazon-sagemaker-examples/tree/master/sagemaker-spark
 - LinearLearner - https://docs.aws.amazon.com/sagemaker/latest/dg/linear-learner.html
 - XGBoost - https://docs.aws.amazon.com/sagemaker/latest/dg/xgboost.html
 - Spark classification & Regression models - https://spark.apache.org/docs/2.2.0/ml-classification-regression.html
