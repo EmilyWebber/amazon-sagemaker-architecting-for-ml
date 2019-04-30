@@ -1,4 +1,4 @@
-# SageMaker + Spark
+# Predicting Airline Delays using SparkML & Sagemaker
 
 ## Introduction
 The U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics tracks the on-time performance of domestic flights operated by large air carriers. Using this data we would like to predict Flight delays
